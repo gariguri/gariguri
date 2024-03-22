@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, welcome! My name is Kim gaeon ☺︎☺︎
 
 <!--
 **gariguri/gariguri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3>매일 성장하기 위해 노력하는 김가언입니다🍎</h3>
+
+---
+## 💻 Skills 
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp</p>
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white"/> </p>
+
+
+## ✍️ Projects
+## 🌱 I’m currently learning ...
+## 👯 I’m looking to collaborate on ...
+## 📞 Contact by...
+
+
+
