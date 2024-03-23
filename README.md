@@ -1,7 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=random&height=150&section=header&text=Hi,%20I'm%20Gaeon%20☺&fontSize=40&animation=scaleIn&fontColor=random" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=random&height=150&section=header&text=Hi,%20I'm%20Gaeon%20☺&fontSize=50&animation=scaleIn&fontColor=random" />
 
-### 매일 성장하기 위해 노력하는 개발자입니다 🐾 
+### 매일 성장하기 위해 노력하는 개발자입니다  🐾 
 
 
 
@@ -24,12 +24,15 @@
 - '지하철 역사 내 스마트팜 설치 지하철 역 선정'주제로 한 데이터 분석 논문 작성
 - 2023 서울시 빅데이터 공모전 참가
 - 자연어처리 iKonwLab 연구실 학부연구생
+- 
   
 
 ## 🐸 I'm ...
-- MBTI: ISTP🤭
+- MBTI: ISTP 🤭
 - Major: Mathematics, Software
 - Hobby: Jogging, Skiing, Movie/Drama
+- Interests: Backend engineering, 클라이밍
+- Finally Vocabulary: Positive
   
 
 ## ✍️ I’m currently learning ...
