@@ -1,12 +1,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=random&height=150&section=header&text=Hi,%20I'm%20Gaeon%20☺&fontSize=40&animation=scaleIn&fontColor=random" />
 
-#### 매일 성장하기 위해 노력하는 개발자입니다 🐾 
+### 매일 성장하기 위해 노력하는 개발자입니다 🐾 
 
 
 
 
-###### "Eighty percent of success is showing up."
+##### "Eighty percent of success is showing up."
 ###### 성공의 8할은 일단 출석하는 것이다.
 
 ---
