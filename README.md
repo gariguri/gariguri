@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>매일 성장하기 위해 노력하는 콩나물 개발자입니다 🐾 </h3>
-<h3></h3>
+<h3>매일 성장하기 위해 노력하는 개발자입니다 🐾 
+
+Eighty percent of success is showing up.
+성공의 8할은 일단 출석하는 것이다.</h3>
 
 ---
 ## 💻 Skills 
@@ -27,35 +29,35 @@ Here are some ideas to get you started:
 
 
 
-## ✍️ Projects
+## 📚 Projects
 - 개인 일정을 효율적으로 관리하는 웹 'PlanPuzzle' 프론트엔드(react)개발
 - '지하철 역사 내 스마트팜 설치 지하철 역 선정'주제로 한 데이터 분석 논문 작성
 - 2023 서울시 빅데이터 공모전 참가
 - 자연어처리 iKonwLab 연구실 학부연구생
-- 
+  
 
-## I'm ...
+## 🐸 I'm ...
 - MBTI: ISTP🤭
-- Major: Mathmatics, Software
-- Hobby: Jogging
-- 
+- Major: Mathematics, Software
+- Hobby: Jogging, Skiing, Movie/Drama
+  
 
-## I’m currently learning ...
-- 신한투자증권 프로 디지털 아카데미
+## ✍️ I’m currently learning ...
+- 신한투자증권 프로 디지털 아카데미 교육 참여
 - 정보처리기사
 - 빅데이터분석기사
-- Spring
 
-## I’m looking to collaborate on ...
+## 🧑‍🤝‍🧑 I’m looking to collaborate on ...
 - 열정과 의욕이 넘치는 사람
 - 긍정적인 사람
 - 호기심이 많은 사람
 - 배움의 과정을 즐길 줄 아는 사람
+- 계획적인 사람
   
   
 ## 📞 Contact by...
-- slack DM .. ㅎ
-- Istagram ID: gari_guri
+-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> DM .. ㅎ
+- <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>: gari_guri
 
-## 
+
 
