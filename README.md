@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3>매일 성장하기 위해 노력하는 개발자입니다 🐾 
 
-Eighty percent of success is showing up.
+"Eighty percent of success is showing up."
 성공의 8할은 일단 출석하는 것이다.</h3>
 
 ---
