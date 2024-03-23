@@ -1,23 +1,13 @@
-# Welcome! I'm Gaeon Kim ☺︎☺︎
 
-<!--
-**gariguri/gariguri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=80&section=header&text=Hi,%20I'm%20Gaeon%20☺&fontSize=40&animation=scaleIn&fontColor=FF8E99" />
 
-Here are some ideas to get you started:
+#### 매일 성장하기 위해 노력하는 개발자입니다 🐾 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3>매일 성장하기 위해 노력하는 개발자입니다 🐾 
 
-"Eighty percent of success is showing up."
-성공의 8할은 일단 출석하는 것이다.</h3>
+
+
+###### "Eighty percent of success is showing up."
+###### 성공의 8할은 일단 출석하는 것이다.
 
 ---
 ## 💻 Skills 
