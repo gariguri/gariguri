@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=80&section=header&text=Hi,%20I'm%20Gaeon%20☺&fontSize=40&animation=scaleIn&fontColor=FF8E99" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=random&height=150&section=header&text=Hi,%20I'm%20Gaeon%20☺&fontSize=40&animation=scaleIn&fontColor=random" />
 
 #### 매일 성장하기 위해 노력하는 개발자입니다 🐾 
 
