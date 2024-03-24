@@ -1,11 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=random&height=150&section=header&text=Hi,%20I'm%20Gaeon%20☺&fontSize=50&animation=scaleIn&fontColor=random" />
 
-### 매일 성장하기 위해 노력하는 개발자입니다  🐾 
-
-
-
-
+### 다채로운 경험을 바탕으로 성장하기 위해 노력하는 개발자 🐾 
 ##### "Eighty percent of success is showing up."
 ###### 성공의 8할은 일단 출석하는 것이다.
 
@@ -19,28 +15,27 @@
 
 
 
-## 📚 Projects
+## 📚 Experience
 - 개인 일정을 효율적으로 관리하는 웹 'PlanPuzzle' 프론트엔드(react)개발
 - '지하철 역사 내 스마트팜 설치 지하철 역 선정'주제로 한 데이터 분석 논문 작성
 - 2023 서울시 빅데이터 공모전 참가
 - 자연어처리 iKonwLab 연구실 학부연구생
-- 
+- 스마트 쇼핑카트 시스템 프로그래밍
   
 
 ## 🐸 I'm ...
 - MBTI: ISTP 🤭
 - Major: Mathematics, Software
 - Hobby: Jogging, Skiing, Movie/Drama
-- Interests: Backend engineering, 클라이밍
-- Finally Vocabulary: Positive
-  
+- Interests: Backend, Data Analysis
+- Final Vocabulary: Patience
 
 ## ✍️ I’m currently learning ...
 - 신한투자증권 프로 디지털 아카데미 교육 참여
 - 정보처리기사
 - 빅데이터분석기사
 
-## 🧑‍🤝‍🧑 I’m looking to collaborate on ...
+## 🧑‍🤝‍🧑 I want to collaborate with people like this ...
 - 열정과 의욕이 넘치는 사람
 - 긍정적인 사람
 - 호기심이 많은 사람
@@ -50,7 +45,7 @@
   
 ## 📞 Contact by...
 -  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> DM .. ㅎ
-- <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>: gari_guri
+- <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>ID: gari_guri
 
 
 
