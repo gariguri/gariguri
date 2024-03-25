@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,%20I'm%20Gaeon%20&animation=scaleIn&fontColor=F4FA58" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&text=Hi,%20I'm%20Gaeon%20&animation=scaleIn&fontColor=F4FA58" />
 
 ### 다채로운 경험을 바탕으로 성장하기 위해 노력하는 개발자 🐾 
 ##### "Eighty percent of success is showing up."
