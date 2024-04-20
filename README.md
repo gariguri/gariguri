@@ -33,7 +33,6 @@
 ## ✍️ I’m currently learning ...
 - 신한투자증권 프로 디지털 아카데미 교육 참여
 - 정보처리기사
-- 빅데이터분석기사
 
 ## 🧑‍🤝‍🧑 I want to collaborate with people like this ...
 - 열정과 의욕이 넘치는 사람
